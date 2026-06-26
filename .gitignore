@@ -1,0 +1,19 @@
+# Binary
+tuimg
+tuimg-*
+
+# Test files
+*.png
+*.jpg
+*.gif
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+output/

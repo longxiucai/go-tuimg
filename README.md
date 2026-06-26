@@ -6,6 +6,8 @@ A terminal image viewer written in pure Go. Supports PNG, JPEG, GIF animation. M
 
 基于[term.everything](https://github.com/mmulet/term.everything)。
 
+![screenshot](docs/app.png)
+
 ## 特性
 - 纯Go实现，无C库依赖，静态编译，开箱即用
 - 支持PNG、JPEG、GIF等常见图片格式

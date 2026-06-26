@@ -2,11 +2,6 @@
 tuimg
 tuimg-*
 
-# Test files
-*.png
-*.jpg
-*.gif
-
 # IDE
 .vscode/
 .idea/
